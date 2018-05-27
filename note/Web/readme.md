@@ -5,7 +5,7 @@
   提示2 : 如何從網站的原始碼看到你所需要的資訊?\
   提示3 : 答案格式 BreakALLCTF{xxxxxxxxxxx}\
   請連結以下網址:\
-  http://120.114.62.89:1001/\
+  http://120.114.62.89:1001/ \
 解:
   打開網址後,按F12看網頁原始碼,會發現能直接看到flag,此flag即為答案\
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(18).png)
@@ -16,7 +16,7 @@
   提示1 : robots.txt的存放放置\
   提示2 : 相關hex to string及base64 編碼\
   請連結以下網址:\
-  http://120.114.62.89:2001/\
+  http://120.114.62.89:2001/ \
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(2).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(3).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(4).png)
