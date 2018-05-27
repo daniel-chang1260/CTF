@@ -39,7 +39,7 @@
 - 解:\
 1.打開網址後,在GO上按右鍵檢查,查看index.php得到http://120.114.62.89:2014/index.php
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(19).png)
-2.在Linux中開啟終端機,輸入"curl http://120.114.62.89:2014/index.php",即得到flag
+2.在Linux中開啟終端機,輸入"curl http://120.114.62.89:2014/index.php", 即得到flag
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(11).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(13).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(14).png)
