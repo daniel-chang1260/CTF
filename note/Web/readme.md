@@ -31,14 +31,14 @@
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(9).png)
 /web-3:Curl-1\
 題目:
- - 網址重新導向(URL redirection)的技術 請到wiki上看看URL redirection的原理及用途 https://zh.wikipedia.org/wiki/網域名稱轉址
- - 提示1 : 如何從網站的原始碼找到你所需要的資訊?
- - 提示2 : 本題可以使用curl工具輕鬆解題
- - 請連結以下網址進行解題:
- - http://120.114.62.89:2014/ 
- - 解:\
- 1.
+- 網址重新導向(URL redirection)的技術 請到wiki上看看URL redirection的原理及用途 https://zh.wikipedia.org/wiki/網域名稱轉址 - 提示1 : 如何從網站的原始碼找到你所需要的資訊?
+- 提示2 : 本題可以使用curl工具輕鬆解題
+- 請連結以下網址進行解題: 
+- http://120.114.62.89:2014/ 
+- 解:\
+1.打開網址後,在GO上按右鍵檢查,查看index.php得到http://120.114.62.89:2014/index.php
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(19).png)
+2.在Linux中開啟終端機,輸入"curl http://120.114.62.89:2014/index.php",即得到flag
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(11).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(13).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(14).png)
