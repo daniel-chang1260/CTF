@@ -20,6 +20,7 @@
 - 解:\
 1.開啟網址後,在網址後方加上"/robots.txt"
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(2).png)
+2.進入後網站後,根據我們僅有的線索,將網址斜線後方改成"secret"
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(3).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(4).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(5).png)
