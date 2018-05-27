@@ -25,10 +25,18 @@
 3.進入網址後,打開"flag.txt",並得到"516e4a6c595774425445784456455a374e31463053304979546a5655624846425155563651334a36546b3939"此串數字
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(4).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(5).png)
-4.將此數字進行hex to string及base64 編碼
+4.將此數字進行hex to string及base64 編碼,即得到答案
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(6).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(7).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(9).png)
+/web-3:Curl-1\
+ - 網址重新導向(URL redirection)的技術 請到wiki上看看URL redirection的原理及用途 https://zh.wikipedia.org/wiki/網域名稱轉址\
+ - 提示1 : 如何從網站的原始碼找到你所需要的資訊?\
+ - 提示2 : 本題可以使用curl工具輕鬆解題\
+ - 請連結以下網址進行解題:\
+ - http://120.114.62.89:2014/ \
+ - 解:\
+ 
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(11).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(13).png)
 ![image](https://github.com/daniel-chang1260/CTF/blob/master/note/Photo/Web/2018-05-27%20(14).png)
